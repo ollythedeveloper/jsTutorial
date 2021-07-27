@@ -1,3 +1,3 @@
-document.write('hello world')
-alert('hello people')
-console.log('hello world')
+let myName = 'Olivia Lewis';
+
+console.log(myName)
