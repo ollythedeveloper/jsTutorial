@@ -6,4 +6,6 @@ zip = 248567
 state = "FL"
 
 console.log(myName)
+myName = "Sandra Dee"
 console.log(address, zip, state)
+console.log(myName)
