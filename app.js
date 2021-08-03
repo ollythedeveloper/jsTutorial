@@ -19,3 +19,7 @@ const lastName = 'Lewis';
 let fullName = name + ' ' + lastName;
 
 console.log('Hi there! Your full name is : ' + fullName);
+
+const website = 'google';
+const url = 'https://' + website + '.com';
+console.log(url);
